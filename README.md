@@ -1,8 +1,27 @@
 # celo-personality
 
-get your celo personality
+Discover your Celo personality through an interactive quiz!
 
-A modern Celo blockchain application built with Next.js, TypeScript, and Turborepo.
+A modern Celo blockchain application built with Next.js, TypeScript, and Turborepo. Take a fun personality quiz to find out if you're a Mini App Maven, Real Human Being, Regenerative Soul, L2 Architect, or Stablecoin Pragmatist.
+
+## Features
+
+- 🎯 **Interactive Personality Quiz**: Answer 5 questions to discover your Celo personality type
+- 🎨 **Beautiful UI**: Modern, animated interface with smooth transitions
+- 📱 **Farcaster Integration**: Works as a Farcaster mini app
+- 🔄 **Progressive Questions**: Each question unlocks after answering the previous one
+- 📊 **Results Analysis**: Get detailed personality traits and descriptions
+- 🔗 **Shareable Results**: Share your personality type with others
+
+## Personality Types
+
+Discover which Celo personality matches you:
+
+- 🎮 **Mini App Maven**: Mobile-first innovators who love building accessible blockchain apps
+- 🌟 **Real Human Being**: Authenticity-focused builders connecting digital and physical worlds
+- 🌱 **Regenerative Soul**: Impact-driven developers creating sustainable blockchain solutions
+- ⚡ **L2 Architect**: Technical wizards optimizing for speed, efficiency, and scalability
+- 💰 **Stablecoin Pragmatist**: Practical builders making crypto useful for everyday life
 
 ## Getting Started
 
